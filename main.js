@@ -1,11 +1,11 @@
 let sky = "blue";
 
-if ( sky === "blue" ) { 
+if (sky === "blue") {
 	/* sky is blue, meaning the condition is TRUE.
 	 That is why console.log will run */
   console.log("Nice weather");
 } else {
-	/* If sky was something other than blue, this code block would run */
+  /* If sky was something other than blue, this code block would run */
   console.log("Not nice weather");
 }
 
